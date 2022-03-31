@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.27.2](https://github.com/googleapis/gapic-generator-go/compare/v0.27.1...v0.27.2) (2022-03-31)
+
+
+### Bug Fixes
+
+* **gengapic:** regapic handle url.Parse error ([#951](https://github.com/googleapis/gapic-generator-go/issues/951)) ([098262f](https://github.com/googleapis/gapic-generator-go/commit/098262f98dd00eb109a8439e668fcda6084eee13))
+
 ### [0.27.1](https://github.com/googleapis/gapic-generator-go/compare/v0.27.0...v0.27.1) (2022-03-30)
 
 
